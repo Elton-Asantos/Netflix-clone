@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Demo
+Acesse a demonstração do aplicativo implantado no Firebase: https://netflix-clone-97c61.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
