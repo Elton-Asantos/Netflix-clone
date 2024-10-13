@@ -3,14 +3,9 @@
 Este projeto é um clone da Netflix construído utilizando React.  Ele busca dados de filmes e séries da API TMDB (The Movie Database) e exibe trailers do YouTube.
 
 
-## Autor
-
-Anurag Sharan (sharananurag998)
-
-
 ## Demo
 
-Acesse a demonstração do aplicativo implantado no Firebase: [https://netflix-clone-ec0f5.web.app/](https://netflix-clone-ec0f5.web.app/)
+Acesse a demonstração do aplicativo implantado no Firebase: [netflix-clone-97c61.firebaseapp.com/](netflix-clone-97c61.firebaseapp.com/)
 
 
 ## Scripts Disponíveis
