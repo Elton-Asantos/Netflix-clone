@@ -1,24 +1,27 @@
-#Netflix Clone
+Netflix Clone
 Um clone da Netflix construído usando React. Ele busca os dados da API TMDB (The Movie Database). Ele também exibe os trailers de filmes que são obtidos no Youtube.
 
-#Demo
+Autor
+Anurag Sharan (sharananurag998)
+
+Demo
 O aplicativo é implantado usando o Firebase em https://netflix-clone-ec0f5.web.app/
 
-##Scripts disponíveis
+Scripts disponíveis
 No diretório do projeto, você pode executar:
 
-##npm start
+npm start
 Executa o aplicativo no modo de desenvolvimento.
 Abra http://localhost:3000 para visualizá-lo no navegador.
 
 A página será recarregada se você fizer edições.
 Você também verá quaisquer erros de lint no console.
 
-##npm test
+npm test
 Inicia o executor de teste no modo de inspeção interativo.
 Consulte a seção sobre como executar testes para obter mais informações.
 
-##npm run build
+npm run build
 Cria o aplicativo para produção na pasta.
 Ele agrupa corretamente o React no modo de produção e otimiza a compilação para obter o melhor desempenho.build
 
@@ -27,7 +30,7 @@ Seu aplicativo está pronto para ser implantado!
 
 Consulte a seção sobre implantação para obter mais informações.
 
-##npm run eject
+npm run eject
 Nota: esta é uma operação unidirecional. Depois de ejetar, você não pode voltar!
 
 Se você não estiver satisfeito com a ferramenta de compilação e as opções de configuração, poderá fazê-lo a qualquer momento. Esse comando removerá a dependência de build único do seu projeto.eject
