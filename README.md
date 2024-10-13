@@ -1,4 +1,4 @@
-Netflix Clone
+#Netflix Clone
 Um clone da Netflix construído usando React. Ele busca os dados da API TMDB (The Movie Database). Ele também exibe os trailers de filmes que são obtidos no Youtube.
 
 Autor
